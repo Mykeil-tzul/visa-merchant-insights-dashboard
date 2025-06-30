@@ -58,9 +58,11 @@ This project helped solidify SQL KPI logic, data storytelling with Tableau, and 
 ## 📊 Overview
 This project simulates how a Visa analyst would help a banking partner evaluate customer behavior, conversion patterns, and outreach effectiveness using SQL-based KPIs.
 
-## 📊 Dashboard Preview
-
-![Visa Dashboard](images/visa_dashboard.png)
+## 🚀 Skills Demonstrated
+- SQL querying with DuckDB
+- Data visualization with Tableau
+- Data storytelling and dashboard design
+- Git, GitHub, and Markdown formatting
 
 
 **Dataset:** Bank Marketing Dataset (Kaggle)  
